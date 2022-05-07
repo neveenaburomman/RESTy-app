@@ -33,7 +33,7 @@ textarea {
     cursor: pointer;
   }
   
-  input[type=url] {
+  input[type=text] {
     width: 70%;
     height: 80px;
     padding: 12px 20px;
