@@ -12,5 +12,6 @@ and when clicks the “Go” button our app fetches data from the URL , with the
 
 # MY LINKS
 [pull request](https://github.com/neveenaburomman/RESTy-app/pulls)
+[netlify](https://6277ba1b5dcde441376bebf2--funny-haupia-37a3d9.netlify.app/)
 
 
