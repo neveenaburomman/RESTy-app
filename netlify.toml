@@ -1,0 +1,4 @@
+[build]
+  base    = "resty-app"
+  publish = "resty-app/dist/"
+  
